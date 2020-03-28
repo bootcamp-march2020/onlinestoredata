@@ -7,4 +7,4 @@ jobs:
       - checkout
       - run:
           name: "Testing"
-          command: curl "https://tw-onlinestore.herokuapp.com/api/movies"
+          command: curl "https://tw-onlinestore.herokuapp.com/public/api/import"
