@@ -1,4 +1,0 @@
-Action,ImdbId,PricingCategory,StockCount
-InsertMovie,tt0112553,Clasic,5
-AddStock,tt0164538,Clasic,2
-RemoveStock,tt0056174,Default,2

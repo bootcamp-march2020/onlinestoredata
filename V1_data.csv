@@ -1,2 +1,7 @@
 Action,ImdbId,PricingCategory,StockCount
-InsertMovie,tt0286716,Default,5
+InsertMovie,tt0371746,Default,2
+InsertMovie,tt0222012,Clasic,2
+InsertMovie,tt5071886,New,2
+InsertMovie,tt0120338,Clasic,1
+InsertMovie,tt0468569,Default,1
+InsertMovie,tt1201607,New,0
